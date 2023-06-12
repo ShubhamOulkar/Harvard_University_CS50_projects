@@ -10,7 +10,7 @@ This repo contain web development assignment project for year 2023
 # How to use this source code
 ### 1 - Clone repo
 ```
- git clone https://github.com/divanov11/mychat
+ git clone https://github.com/ShubhamOulkar/Harvard_University_CS50_projects.git
 ```
 ### 2 - Create virtual environment in current directory
 ### 3 - Install requirements
