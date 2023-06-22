@@ -27,7 +27,14 @@ cd mail
 ```
 cd tweeter
 ```
-### 5 - Start server
+### 5 - run following commands in terminal
+```
+python manage.py makemigrations
+```
+```
+python manage.py migrate
+```
+### 6 - Start server
 ```
 python manage.py runserver
 ```
